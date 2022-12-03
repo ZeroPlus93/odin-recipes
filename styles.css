@@ -18,8 +18,8 @@ a:hover {
 }
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    color: rgb(107, 107, 107);    
+    font-size: 18px;
+    color: rgb(0, 0, 0);    
 }
 a.breakfast {
     background-color: antiquewhite;
@@ -43,4 +43,15 @@ img.centerbig {
 ul {
     list-style-image: url(./images/ingredients.png);
     padding-left: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+
+}
+ol {
+    color: rgb(0, 0, 0);
+    width: 50%;
+    font-size: 18px
+}
+li {
+    padding-top: 10px;
 }
